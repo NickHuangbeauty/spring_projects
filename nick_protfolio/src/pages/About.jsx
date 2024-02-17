@@ -2,7 +2,9 @@ import React from 'react'
 import { skills } from '../constants'
 import VerticalAlternatingTimeline from '../components/VerticalTimeline'
 
+// Define the About component
 const About = () => {
+  // Render the About section
   return (
     <section className="max-container">
       <h1 className="head-text">
@@ -15,7 +17,6 @@ const About = () => {
         我熱愛學習和不斷探索新的數據技術，並且樂於與團隊合作，共同解決數據相關的挑戰。</p>
       </div>
       
-
       <div className="py-10 flex flex-col">
          <h3 className="subhead-text">技術領域</h3>
 
