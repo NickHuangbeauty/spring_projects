@@ -26,17 +26,24 @@ import { Chrono } from "react-chrono";
 
 const items = [
   {
-    title: "2021年7月 - 現在",
+    title: "2024年4月 - 現在",
+    cardTitle: "高級數據工程師（技術副理）",
+    cardSubtitle: "遊戲橘子",
+    cardDetailedText: 
+        ["原有系統改善：通過數據分析與重構數據流架構，以因應各業務單位的需求。"]
+  },
+  {
+    title: "2021年7月 - 2024年3月",
     cardTitle: "大數據開發工程師",
     cardSubtitle: "緯創軟體",
     cardDetailedText: 
-        ["系統整合：國內外數據源，通過匯流中心進行收集與分發，以支援各業務單位的需求。"]
+        ["大數據系統整合：國內外數據源，通過數據分析與匯流中心進行收集與分發，以支援各業務單位的需求。"]
   },
   {
     title: "2020年2月 - 2021年7月",
     cardTitle: "數據開發工程師",
     cardSubtitle: "吉貝克",
-    cardDetailedText: ["系統導入：規劃Oracle OFSAA專案之資料清洗、數據建模、測試與驗證計算模組正確性。"],
+    cardDetailedText: ["系統導入：規劃Oracle OFSAA專案之資料清洗、數據建模與分析、測試與驗證計算模組正確性。"],
   },
   {
     title: "2018年12月 - 2019年8月",
@@ -48,7 +55,7 @@ const items = [
     title: "2016年6月 - 2018年2月",
     cardTitle: "信用風險資深專員",
     cardSubtitle: "王道銀行",
-    cardDetailedText: ["系統移轉與整合Basel計算模組：因應核心移轉後相關業務資料整合以及優化資本計提計算過程。"],
+    cardDetailedText: ["系統移轉與整合Basel計算模組：因應核心移轉後信用風險資料分析與整合以及優化資本計提計算過程。"],
   },
   {
     title: "2013年8月 - 2016年6月",

@@ -13,7 +13,7 @@ function Projects() {
       </h1>
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
-       <p>我的專案著重於資料工程，結合我在ETL開發工程師角色中的實際工作經驗，自學課程所得的專業知識，以及對開源軟體的參與。</p>
+       <p>職涯發展著重於資料分析以及數據工程，並結合實際工作經驗與自學課程所得之專業知識</p>
       </div>
 
       <div className="flex flex-wrap my-20 gap-16">
