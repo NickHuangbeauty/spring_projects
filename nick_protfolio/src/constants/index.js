@@ -124,6 +124,12 @@ export const socialLinks = [
 
 export const certificates = [
   {
+    iconUrl: udacity,
+    theme: "btn-back-white",
+    name: 'Data Engineering with AWS Nanodegree',
+    link: 'https://app.heptabase.com/w/13e9a42c15e1702cc0e54988873b8e90ac4a41e3863307fb4bf28ed198b575c2',
+  },
+  {
     iconUrl: coursera,
     theme: "btn-back-white",
     name: 'Programming for Everybody (Getting Started with Python)',
@@ -153,16 +159,16 @@ export const certificates = [
     name: 'Capstone: Retrieving, Processing, and Visualizing Data with Python',
     link: 'https://www.coursera.org/verify/PXENQWGWCS7M',
   }, 
-  {
-    iconUrl: udacity,
-    theme: "btn-back-white",
-    name: 'Data Engineering with AWS Nanodegree',
-    link: 'https://app.heptabase.com/w/13e9a42c15e1702cc0e54988873b8e90ac4a41e3863307fb4bf28ed198b575c2',
-  }, 
+  // {
+  //   iconUrl: udacity,
+  //   theme: "btn-back-white",
+  //   name: 'Data Engineering with AWS Nanodegree',
+  //   link: 'https://app.heptabase.com/w/13e9a42c15e1702cc0e54988873b8e90ac4a41e3863307fb4bf28ed198b575c2',
+  // }, 
   {
     iconUrl: aia,
     theme: "btn-back-white",
-    name: '第一屆技術領袖班',
+    name: '台灣人工智慧學校第一屆技術領袖班',
     link: 'https://app.heptabase.com/w/d13bf875adff9f7c2dc12fa674b99c3ed2539349a4297c2d3a5c832a04d5ebc8',
   }, 
 ] 

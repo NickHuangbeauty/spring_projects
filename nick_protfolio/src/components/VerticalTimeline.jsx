@@ -26,7 +26,7 @@ import { Chrono } from "react-chrono";
 
 const items = [
   {
-    title: "2024年4月 - 現在",
+    title: "2024年4月 - 2024年12月",
     cardTitle: "高級數據工程師（技術副理）",
     cardSubtitle: "遊戲橘子",
     cardDetailedText: 

@@ -17,12 +17,12 @@ const renderContent = {
       <h1 className="sm:text-x1 sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
         您好，我是 <span className="font-semibold">國申</span> 👋
         <br/>
-        一位數據資料分析工程師
+        一位數據資料工程師
       </h1>
     ),
     2: (
       <InfoBox
-        text="專注於數據分析, AI與ETL以及注重團隊合作與溝通能力"
+        text="專注於資料工程,數據分析與AI以及注重團隊合作與溝通能力"
         link="/about"
         btnText="關於我"
       />
