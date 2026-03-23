@@ -1,3 +1,30 @@
+# Dependencies
 node_modules
+
+# Build output
 dist
+
+# Vite cache
 .vite
+
+# Environment variables (may contain API keys, secrets)
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea
+.vscode
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local config
+*.local
